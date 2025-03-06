@@ -1,0 +1,5 @@
+- ✅ **Data Preprocessing & Cleaning**: Handling missing values, outliers, and standardizing data.
+- ✅ **Feature Engineering & Selection**: Identifying key indicators for diabetes prediction.
+- ✅ **Machine Learning Model Training**: Implementing Logistic Regression, Random Forest, and more.
+- ✅ **Model Evaluation**: Accuracy, Precision, Recall, and AUC-ROC analysis.
+- ✅ **Insights & Visualization**: Data exploration and feature importance analysis.
