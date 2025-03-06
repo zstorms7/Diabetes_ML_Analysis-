@@ -1,0 +1,7 @@
+Decision tree Accuracy: 0.6190476190476191
+#After tuning with grid search
+Best parameters: {'criterion': 'gini', 'max_depth': 3, 'min_samples_leaf': 2, 'min_samples_split': 2}
+Best score: 0.6780200761509173
+Accuracy of best decision tree:  0.6190476190476191
+Random Forest Accuracy: 0.6406926406926406
+Adaboost Accuracy: 0.683982683982684
